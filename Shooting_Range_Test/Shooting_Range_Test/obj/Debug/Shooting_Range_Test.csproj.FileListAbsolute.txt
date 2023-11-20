@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\bin\Debug\Shooting_Range_Test.exe.config
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\bin\Debug\Shooting_Range_Test.exe
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\bin\Debug\Shooting_Range_Test.pdb
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\obj\Debug\Shooting_Range_Test.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\obj\Debug\Shooting_Range_Test.exe
+C:\Users\Lenovo\Desktop\Labs\Shooting_Range\Shooting_Range_Test\Shooting_Range_Test\obj\Debug\Shooting_Range_Test.pdb
